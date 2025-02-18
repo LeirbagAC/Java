@@ -23,6 +23,6 @@ public class index {
 
         System.out.printf("Seu nome é %s e tem %d de idade e sua comida favorita e %s", nome, idade, comida);
 
-
+        scanner.close();
     }
 }

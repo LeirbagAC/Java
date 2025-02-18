@@ -15,5 +15,7 @@ public class index {
         } else {
             System.out.println("You are under age");
         }
+
+        scanner.close();
     }
 }
